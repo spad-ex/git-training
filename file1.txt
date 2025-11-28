@@ -1,4 +1,7 @@
 poli saanam
 add a second line
 adding a line for test branching
+HEAD
 this is from master branch
+this is from conflict branch
+dd8a26a (adding line in conflict branch)
